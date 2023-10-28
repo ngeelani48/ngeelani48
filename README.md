@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/ngeelani48" target="blank">
 Nafees</a></h1>
-<h3 align="center">A Full Stack development student from Al Ula, Saudi Arabia</h3>
+<h3 align="center">A Full Stack developer from Al Ula, Saudi Arabia</h3>
 
 
 <p align="left"> <a href="https://twitter.com/ngeelani48" target="blank"><img src="https://img.shields.io/twitter/follow/ngeelani48?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
@@ -10,7 +10,7 @@ Nafees</a></h1>
 </a>
 
 
-- 🌱I’m currently learning full stack software development
+- 🌱I’m currently learning full-stack software development
 
 - 🤝 I’m available for freelancing.
 
